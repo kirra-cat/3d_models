@@ -1,0 +1,3 @@
+model name: 0603LS-241
+reference part number: 0603LS-241XJLB
+manufacturer: Coircraft

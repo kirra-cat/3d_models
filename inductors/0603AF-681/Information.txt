@@ -1,0 +1,3 @@
+model name: 0603AF-681
+reference part number: 0603AF-681XJEU
+manufacturer: Coircraft

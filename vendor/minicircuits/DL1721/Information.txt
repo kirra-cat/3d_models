@@ -1,0 +1,3 @@
+model name: DL1721
+reference part number: CMA-82+
+manufacturer: Mini Circuits

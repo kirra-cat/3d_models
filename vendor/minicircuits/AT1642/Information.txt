@@ -1,0 +1,3 @@
+model name: AT1642
+reference part number: DBTC16-282LX+
+manufacturer: Mini Circuits

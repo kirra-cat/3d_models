@@ -1,0 +1,3 @@
+model name: DG1847
+reference part number: CY2-143+
+manufacturer: Mini Circuits

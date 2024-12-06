@@ -1,0 +1,3 @@
+model name: FG873
+reference part number: LEE-59+
+manufacturer: Mini Circuits

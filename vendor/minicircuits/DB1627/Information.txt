@@ -1,0 +1,3 @@
+model name: DB1627
+reference part number: TCM2-43X+
+manufacturer: Mini Circuits

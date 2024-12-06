@@ -1,0 +1,3 @@
+model name: 02K249-40ML5
+reference part number: 02K249-40ML5
+manufacturer: Rosenberger

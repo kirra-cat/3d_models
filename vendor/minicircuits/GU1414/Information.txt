@@ -1,0 +1,3 @@
+model name: GU1414
+reference part number: TCBT-123+
+manufacturer: Mini Circuits

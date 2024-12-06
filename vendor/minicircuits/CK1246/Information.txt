@@ -1,0 +1,3 @@
+model name: CK1246
+reference part number: RKK-4-442+
+manufacturer: Mini Circuits

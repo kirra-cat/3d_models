@@ -1,0 +1,3 @@
+model name: WW107
+reference part number: ERA-21SM+
+manufacturer: Mini Circuits

@@ -1,0 +1,3 @@
+model name: DZ885
+reference part number: KC2-11+
+manufacturer: Mini Circuits

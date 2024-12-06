@@ -1,0 +1,3 @@
+model name: DF782
+reference part number: PHA-102+
+manufacturer: Mini Circuits

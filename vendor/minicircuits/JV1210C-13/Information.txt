@@ -1,0 +1,3 @@
+model name: JV1210C-13
+reference part number: LFCV-2002+
+manufacturer: Mini Circuits

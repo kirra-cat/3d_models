@@ -1,0 +1,3 @@
+model name: 718
+reference part number: RUICHI 718
+manufacturer: RUICHI
