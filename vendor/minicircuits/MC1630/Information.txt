@@ -1,0 +1,3 @@
+model name: MC1630
+reference part number: YAT-2A+
+manufacturer: Mini Circuits
