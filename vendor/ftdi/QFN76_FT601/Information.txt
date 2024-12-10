@@ -1,0 +1,3 @@
+model name: QFN76_FT601
+reference part number: FT601Q-B
+manufacturer: FTDI

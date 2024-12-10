@@ -1,0 +1,3 @@
+model name: QFN56_FT600
+reference part number: FT600Q-B
+manufacturer: FTDI
