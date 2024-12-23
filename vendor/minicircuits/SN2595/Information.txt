@@ -1,0 +1,3 @@
+model name: SN2595
+reference part number: SCTX2-93-2W+
+manufacturer: Mini Circuits
